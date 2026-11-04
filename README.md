@@ -1,4 +1,4 @@
-# Dataset-Narkotika_XXX_YYY
+# Dataset-Narkotika_107_136
 
 > Kumpulan putusan Pengadilan Negeri Rantau Prapat perkara **Narkotika dan Psikotropika** (Pidana Khusus), tahun 2023–2025, untuk riset dan praktikum **Temu Kembali Informasi (Information Retrieval)**.
 
@@ -7,7 +7,6 @@
 ![Bahasa](https://img.shields.io/badge/bahasa-Indonesia-red)
 ![Status](https://img.shields.io/badge/status-bukan%20inkracht-orange)
 
-Ganti `XXX` dan `YYY` pada judul dengan 3 digit terakhir NIM anggota 1 dan anggota 2.
 
 ---
 
@@ -117,8 +116,8 @@ Contoh: `putusan_363_pid.sus_2024_pn_rap_20261104153012.pdf`
 Unduh dan ekstrak:
 
 ```bash
-git clone https://github.com/<username>/Dataset-Narkotika_XXX_YYY.git
-cd Dataset-Narkotika_XXX_YYY
+git clone https://github.com/dinoibnuzein/Dataset-Narkotika_107_136.git
+cd Dataset-Narkotika_107_136
 unzip Dataset/Narkotika.zip -d Dataset/pdf
 ```
 
@@ -180,7 +179,7 @@ Mohon gunakan dengan bijak. Dokumen memuat nama pihak yang berperkara, jadi jang
 
 | Nama | NIM | Peran |
 |---|---|---|
-| `<Nama Anggota 1>` | `<NIM>` | Pengumpulan dan penyusunan dataset |
-| `<Nama Anggota 2>` | `<NIM>` | Pembuatan ringkasan dan dokumentasi |
+| `<Dino Ibnu Zein>` | `<202310370311107>` | Pengumpulan dan penyusunan dataset |
+| `<Abdul Ghofir Samjani>` | `<202310370311136>` | Pembuatan ringkasan dan dokumentasi |
 
 Mata kuliah Temu Kembali Informasi, Semester Ganjil 2026/2027, Fakultas Teknik, Universitas Muhammadiyah Malang.
