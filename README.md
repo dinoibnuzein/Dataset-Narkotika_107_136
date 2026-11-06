@@ -35,7 +35,7 @@ Dataset ini berisi **50 putusan** dalam bentuk PDF, ditambah satu berkas ringkas
 
 | Item | Keterangan |
 |---|---|
-| Jumlah dokumen | 50 putusan |
+| Jumlah dokumen | 60 putusan |
 | Format dokumen | PDF |
 | Format ringkasan | XLSX |
 | Pengadilan | PN Rantau Prapat |
@@ -67,9 +67,9 @@ Dokumen dipilih dengan aturan berikut:
 ```
 Dataset-Narkotika_XXX_YYY/
 ├── Dataset/
-│   └── Narkotika.zip        # 50 berkas putusan (*.pdf)
+│   └── Narkotika.zip        # 60 berkas putusan (*.pdf)
 ├── Overview/
-│   └── Overview.xlsx        # ringkasan 50 putusan
+│   └── Overview.xlsx        # ringkasan 60 putusan
 └── README.md
 ```
 
