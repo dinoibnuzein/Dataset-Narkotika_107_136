@@ -31,7 +31,7 @@
 
 Putusan pengadilan adalah teks hukum yang panjang, formal, dan punya pola kalimat yang berulang. Sifat ini membuatnya cocok sebagai korpus untuk Temu Kembali Informasi: ada struktur yang bisa diekstraksi, kosakata yang khas, dan kebutuhan pencarian yang nyata (misalnya mencari putusan dengan barang bukti tertentu atau pidana tertentu).
 
-Dataset ini berisi **50 putusan** dalam bentuk PDF, ditambah satu berkas ringkasan `Overview.xlsx` yang memuat metadata dan dua bagian inti tiap putusan: **barang bukti** dan **amar putusan**.
+Dataset ini berisi **60 putusan** dalam bentuk PDF, ditambah satu berkas ringkasan `Overview.xlsx` yang memuat metadata dan dua bagian inti tiap putusan: **barang bukti** dan **amar putusan**.
 
 | Item | Keterangan |
 |---|---|
@@ -167,7 +167,7 @@ Kerangka ini membantu ekstraksi: barang bukti dan amar putusan dapat dikenali le
 - Hanya putusan yang belum berkekuatan hukum tetap; status dapat berubah setelah pengunduhan.
 - Kualitas teks bergantung pada PDF. Beberapa dokumen berasal dari hasil pindai dan dapat menghasilkan teks yang tidak rapi.
 - Setiap halaman PDF memuat penafian dari portal Mahkamah Agung yang perlu dibersihkan saat praproses.
-- Ukuran 50 dokumen cocok untuk latihan, tetapi terlalu kecil untuk melatih model skala besar.
+- Ukuran 60 dokumen cocok untuk latihan, tetapi terlalu kecil untuk melatih model skala besar.
 
 ## Etika dan Legalitas
 
